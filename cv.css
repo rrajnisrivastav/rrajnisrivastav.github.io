@@ -1,0 +1,16 @@
+.blok1 {
+	background-color:#21663f;
+	color:white;
+}
+.image {
+	width:120px;
+	height:150px;
+	margin-top:5px;
+	margin-bottom:4px;
+	border:1px solid black;
+}
+h4{
+	text-align:center;
+	color:orange;
+	font-family:Helvetica;
+}    
