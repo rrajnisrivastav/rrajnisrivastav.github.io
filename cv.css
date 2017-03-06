@@ -14,3 +14,6 @@ h4{
 	color:orange;
 	font-family:Helvetica;
 }    
+.container h4 {
+	text-align:left;
+}
