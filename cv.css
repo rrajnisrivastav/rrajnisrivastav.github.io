@@ -1,5 +1,5 @@
 .blok1 {
-	background-color:#21663f;
+	background-color:#63AB62;
 	color:white;
 }
 .image {
@@ -16,4 +16,21 @@ h4{
 }    
 .container  h4 {
 	text-align:left;
+}
+/*.progress {
+  background-color: #aaa;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}*/
+.bar {
+    background-color: #006400;
+	color:white;
+} 
+.baar {
+	background-color: green;
+	color:white;
+}
+.barr {
+	background-color:#4DBD33;
+	color:white;
 }
